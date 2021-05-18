@@ -4,11 +4,12 @@
 
 ### Project Description:
 
-It is a crochet quilt representing a data heat map, which is a data visulization technique that sepperates data in subsections using two variables then displayes them in a grid, usingusing heat to represent quanitites of data rather than color or shade. The project is aimed to examine our current state of data visulization and representation to find a more embodied and appreciative form of interacting with data. 
+This project is a crochet quilt representing a data heat map, which is a data visulization technique that seperates data in subsections using two variables then displayes them in a grid. Rather than displaying data by color or shade, Heat Quilt uses heat to represent quanitites of data. The project is aimed to examine our current state of data visulization and representation to find a more embodied and appreciative form of interacting with data. 
 
-This project drew inspiration from the concepts of data humanism and data feminism, as discussed in Georigia Lupi's work Data Humanism: *The Revolutionary Future of Data Visualization* and Data Feminism as discussed in Catherine D'Ignazio and Lauren Klein's book *Data Feminism*. Data today is so far removed from embodiment, from the source it represents. By brining physicality back to the numbers and categories of data, I mean to depart data from the human superiority that reigns over it.
+This project drew inspiration from the concepts of data humanism and data feminism, as discussed in Georigia Lupi's work Data Humanism: *The Revolutionary Future of Data Visualization* and Data Feminism as discussed in Catherine D'Ignazio and Lauren Klein's book *Data Feminism*. Data today is so far removed from embodiment, from the source it represents. By bringing physicality back to the numbers and categories of data, I mean to depart data from the human superiority that reigns over it. For more details on the background of this work, reference the included Project Idea and Methodology pdf.
 
 ### References/Inspiration:
+
 Wilkinson, L., & Friendly, M. (2009) The History of the Cluster Heat Map. *The American Statistician*, 63(2), 179-184. https://www.cs.uic.edu/~wilkinson/Publications/heatmap.pdf
 
 Lupi, G. (2017a, January 30). Data Humanism: *The Revolutionary Future of Data Visualization*. PRINT. https://www.printmag.com/post/data-humanism-future-of-data-visualization
@@ -28,13 +29,13 @@ Splan, L. (2016). *Embodied Objects* [Textile/Sculpture/Graphic] IMRC at The Uni
 
 ### Progress:
 
-Heat Quilt began with construction of different forms of heat producing circuits. Various iterations and techniques used in this design can be referenced in the folder "Heat Producuing Cirucit Design Archive." The current form of design is .png in this folder.
+Heat Quilt began with construction of different forms of heat producing circuits. Various iterations and techniques used in this design can be referenced in the folder "heat-producuing-cirucit-design-archive". The inital design was the use an embriodery machine the create a pattern with conductive thread. However, due to the lack of heat produced by the conductive thread used, this design was ineffective. The next and current design involved manually wrapping conductive thread around yarn. This produced a more effective heating mechanism. The current form of design is noted in this folder.
 
-An arduino circuit supporting heating two sections on the quilt has been made, the design of this circuit can be referenced in the folder "Arduino Code and Cirucit" along with the Arduino code supporting it. Note that the included sketch uses motors to represent the fabric "heating pads" created with conductive thread. Also note that any external 5V battery was used in this circuit, but the voltage of the battery used depends on the fabric "heating pads" created. As of now, this project is using an exteernal supply of 9V.
+An arduino circuit supporting heating two sections on the quilt has been made, the design of this circuit can be referenced in the folder "arduino-code-and-cirucit" along with the Arduino code supporting it. Note that the included sketch uses motors to represent the fabric "heating pads" created with conductive thread. Also note that an external 9V battery was used in this circuit, but the voltage of the battery used depends on the fabric "heating pads" created. As of now, this project is using an external supply of 9V (powered from a wall plug).
 
-The aesthetic design of this project can be referenced in the folder "Quilt Design Documentation". For a short video documentation of this project see thi youtube video: https://youtu.be/i5hmYlKIMhw.
+The aesthetic design of this project can be referenced in the folder "quilt-design-documentation". For a short video documentation of this project see thi youtube video: https://youtu.be/i5hmYlKIMhw.
 
 
 ### To Use:
 
-Recreate the heat producing circuit as in "Arduino Code and Cirucit" and run the code also in this folder. 
+Recreate the heat producing circuit as in "arduino-codecand-cirucit" and run the code also in this folder. 
