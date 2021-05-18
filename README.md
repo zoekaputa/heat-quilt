@@ -37,4 +37,4 @@ The aesthetic design of this project can be referenced in the folder "Quilt Desi
 
 ### To Use:
 
-Recreate the heat producing circuit as in "Quilt Design Documentation" and run the code also in this folder. 
+Recreate the heat producing circuit as in "Arduino Code and Cirucit" and run the code also in this folder. 
