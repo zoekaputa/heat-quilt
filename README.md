@@ -29,11 +29,11 @@ Splan, L. (2016). *Embodied Objects* [Textile/Sculpture/Graphic] IMRC at The Uni
 
 ### Progress:
 
-Heat Quilt began with construction of different forms of heat producing circuits. Various iterations and techniques used in this design can be referenced in the folder "heat-producuing-cirucit-design-archive". The inital design was the use an embriodery machine the create a pattern with conductive thread. However, due to the lack of heat produced by the conductive thread used, this design was ineffective. The next and current design involved manually wrapping conductive thread around yarn. This produced a more effective heating mechanism. The current form of design is noted in this folder.
+Heat Quilt began with construction of different forms of heat producing circuits. Various iterations and techniques used in this design can be referenced in the folder "heat-producuing-cirucit-design-archive". The inital design was using an embriodery machine to create a pattern with conductive thread. However, due to the lack of heat produced by the conductive thread used, this design was ineffective. The next and current design involved manually wrapping conductive thread around yarn. This produced a more effective heating mechanism. The current form of design is noted in this folder.
 
-An arduino circuit supporting heating two sections on the quilt has been made, the design of this circuit can be referenced in the folder "arduino-code-and-cirucit" along with the Arduino code supporting it. Note that the included sketch uses motors to represent the fabric "heating pads" created with conductive thread. Also note that an external 9V battery was used in this circuit, but the voltage of the battery used depends on the fabric "heating pads" created. As of now, this project is using an external supply of 9V (powered from a wall plug).
+An arduino circuit supporting heating two sections on the quilt has been made, and the design of this circuit can be referenced in the folder "arduino-code-and-cirucit" along with the Arduino code supporting it. Note that the included sketch uses motors to represent the fabric "heating pads" created with conductive thread. Also note that an external 9V battery was used in this circuit, but the voltage of the battery used depends on the fabric "heating pads" created. As of now, this project is using an external supply of 9V (powered from a wall plug).
 
-The aesthetic design of this project can be referenced in the folder "quilt-design-documentation". For a short video documentation of this project see thi youtube video: https://youtu.be/i5hmYlKIMhw.
+The aesthetic design of this project can be referenced in the folder "quilt-design-documentation". For a short video documentation of this project see this youtube video: https://youtu.be/i5hmYlKIMhw.
 
 
 ### To Use:
