@@ -30,9 +30,9 @@ Splan, L. (2016). *Embodied Objects* [Textile/Sculpture/Graphic] IMRC at The Uni
 
 Heat Quilt began with construction of different forms of heat producing circuits. Various iterations and techniques used in this design can be referenced in the folder "Heat Producuing Cirucit Design Archive." The current form of design is .png in this folder.
 
-An arduino circuit supporting heating two sections on the quilt has been made, the design of this circuit can be referenced in the folder "Arduino Code and Cirucit" along with the Arduino code supporting it. Note that the included sketch uses motors to represent the fabric "heating pads" created with conductive thread.
+An arduino circuit supporting heating two sections on the quilt has been made, the design of this circuit can be referenced in the folder "Arduino Code and Cirucit" along with the Arduino code supporting it. Note that the included sketch uses motors to represent the fabric "heating pads" created with conductive thread. Also note that any external 5V battery was used in this circuit, but the voltage of the battery used depends on the fabric "heating pads" created. As of now, this project is using an exteernal supply of 9V.
 
-The aesthetic design of this project can be referenced in the folder "Quilt Design Documentation". Likewise, video documentation of this project (as of 5/17/2021) is in this folder as well.
+The aesthetic design of this project can be referenced in the folder "Quilt Design Documentation". Likewise, a short video documentation of this project (as of 5/17/2021) is in this folder as well.
 
 
 ### To Use:
