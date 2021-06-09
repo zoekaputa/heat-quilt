@@ -1,6 +1,6 @@
 # heat-quilt
 
-### Heat Quilt is a data display project done for DXARTS 472: Mechatronic Art, Design, and Fabrication II.
+### Heat Quilt is a data display of sexual crime in Seattle done for DXARTS 472: Mechatronic Art, Design, and Fabrication II.
 
 ### Project Description:
 
@@ -15,6 +15,10 @@ This project aims to connect individuals with data on a level deeper than simple
 However, I'll also note that this project also expresses the limitations of data visulization and embodiment. The quilt does not focus on expressing the data in an easily understandable way. Because of this, actually interpreting the data by just experiencing the blanket is quite difficult. Althought this notion is amplified in this project, it exists in all data visulizations. Innately, summarizing data makes it ambiguous. This is an issue we will always encounter while analyzing data, and one we must work through by attempting new techniques.
 
 For more details on the background of the original idea behind this work, reference the included Project Idea and Methodology pdf. Note that this project has far expanded from its orognal intention.
+
+### Presentation:
+
+In an ideal setting this work woud be displayed in a public space either on the ground or on a peice of furniture. Audience member will enter the installation with a value understanding of the project: its name and the data being displayed. They would have to oppertunity to touch, pick up, and cover themselves with the blanket. The video referenced in the Documentation section of this README would also play nearby the blanket (without sound). When leaving the exhibit, the audience will have access/be show the computer generated heat map "heatmap_blanket.png" from the "arduino-code-and-cirucit" folder of this repository. The goal of this presentation is to allow the audience to explore the artwork from their own personal lens along with seeing my own view of it.
 
 ### References/Inspiration:
 
