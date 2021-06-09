@@ -4,7 +4,9 @@
 
 ### Project Description:
 
-This project is a crochet quilt representing a data heat map, which is a data visulization technique that seperates data in subsections using two variables then displayes them in a grid. Rather than displaying data by color or shade, Heat Quilt uses heat to represent quanitites of data. The project is aimed to display data related to sexula violence in the city of Seattle along with examining our current state of data visulization and representation to find a more embodied and appreciative form of interacting with data. 
+This project is a crochet quilt representing a data heat map, which is a data visulization technique that seperates data in subsections using two variables then displayes them in a grid. Rather than displaying data by color or shade, Heat Quilt uses heat to represent quanitites of data. The project is aimed to display data related to sexual violence in the city of Seattle along with examining our current state of data visulization and representation to find a more embodied and appreciative form of interacting with data.
+
+This project first produces a heat map of particular offenses (Fondling, Sexual Assult with an Object, and Peeping Tom) in particular neigborhoods of Seattle (Roosevelt/Ravenna, Wallingford, University). This heat map is included as "heatmap_blanket.png" in the "arduino-code-and-cirucit" folder. Each bucket of this heat map is then compared to the average number of data present in a bucket. If any given bucket is higher than the average, the corresponding sqaure of the heat map blanket is also heated. If not, the corresponding sqaure is not heated.
 
 Heat Quilt drew inspiration from the concepts of data humanism and data feminism, as discussed in Georigia Lupi's work Data Humanism: *The Revolutionary Future of Data Visualization* and Data Feminism as discussed in Catherine D'Ignazio and Lauren Klein's book *Data Feminism*. Data today is so far removed from embodiment, from the source it represents. By bringing physicality back to the numbers and categories of data, I mean to depart data from the human superiority that reigns over it.
 
@@ -47,7 +49,7 @@ For a short video documentation of this froof of concept, see this youtube video
 
 ### Documentation:
 
-For ducmentation of the production process, also visit the photos in the "quilt-design-documentation" folder. For a video documentation of the aesthetic and spirit of this project, see this youtube video: https://youtu.be/Tr5On5pCPpQ.
+For ducmentation of the production process, also visit the photos in the "quilt-design-documentation" folder. Photos of the final quilt design are included in the "final-quilt-documentation' folder. For a video documentation of the aesthetic and spirit of this project, see this youtube video: https://youtu.be/Tr5On5pCPpQ. This video is the most encompassing display of Heat Quilt.
 
 ### To Use:
 
