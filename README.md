@@ -51,6 +51,12 @@ For ducmentation of the production process, also visit the photos in the "quilt-
 
 ### To Use:
 
-Recreate the heat producing circuit FullArduinoCircuit.jpg as in "arduino-code-and-cirucit" and run the python script also in this folder. FullArduinoCircuit.jpg is quite complex, but this circuit is similar to ArduinoCircuit.jpg, but just requires 9 heating elements rather than 2. Further, this python script is dependent on several installations; the pyfirmata, time, pandas, seaborn, and matplotlib libaraies. Further, the program is also dependent on the file SPD_Crime_Data__2008-Present.csv being present in the same folder as the code. This code was extracted from https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5 on June 5 2021. This file is too large to include in the repository, but you may extract the data manually from this website.
+Recreate the heat producing circuit FullArduinoCircuit.jpg as in "arduino-code-and-cirucit" and run the python script also in this folder.
+
+FullArduinoCircuit.jpg is quite complex, but this circuit is similar to ArduinoCircuit.jpg, but just requires 9 heating elements rather than 2. The included sketch uses motors to represent the fabric "heating pads" created with conductive thread. Also, an external 9V battery was used in this circuit, but the voltage of the battery used depends on the fabric "heating pads" created. As of now, this project is using an external supply of 9V (powered from a wall plug).
+
+Further, this python script is dependent on several installations; the pyfirmata, time, pandas, seaborn, and matplotlib libaraies.
+
+And finally, the program is also dependent on the file SPD_Crime_Data__2008-Present.csv being present in the same folder as the code. This code was extracted from https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5 on June 5 2021. This file is too large to include in the repository, but you may extract the data manually from this website.
 
 Note that this project requires care during setup and running considering it is using electronics and materials that can easily burn.
